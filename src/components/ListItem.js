@@ -266,7 +266,7 @@ const styles = {
     flex: 1,
     fontSize: 16,
     paddingLeft: 15,
-    color: 'green',
+    color: 'red',
     textDecorationLine: 'line-through'
   },
   titleTimeLateStyle: {
